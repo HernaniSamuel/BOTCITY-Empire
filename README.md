@@ -1,1 +1,1 @@
-# BOTCITY-Empire
+Um BOT feito com botcity que joga o jogo Goodgame Empire cuja a principal função é atacar fortalezas no gelo e deserto em que as coordenadas lhe são informadas através de planilhas excel contendo as coordenadas das fortalezas a serem atacadas.
